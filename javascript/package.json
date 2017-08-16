@@ -1,0 +1,11 @@
+{
+  "name": "text-adventure",
+  "version": "1.0.0",
+  "description": "A simple game loop for SDFP JavaScripters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"LOL\" && exit 1"
+  },
+  "author": "SDFP",
+  "license": "ISC"
+}
